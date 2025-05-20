@@ -4,4 +4,4 @@
 
 ## Name Functions
 
-* [Page 1](name-functions/page-1.md)
+* [Name](name-functions/name.md)
